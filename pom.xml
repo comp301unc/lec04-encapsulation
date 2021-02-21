@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.comp301.lec04</groupId>
-  <artifactId>encapsulation</artifactId>
+  <artifactId>lec04-encapsulation</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>encapsulation</name>
+  <name>lec04-encapsulation</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
